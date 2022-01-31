@@ -18,4 +18,5 @@
 ![image of redux-store](./assets/images/redux-store.png)
 
 ## Author
-Raymond Cerney
+Raymond Cerney 
+:-)
